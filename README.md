@@ -1,5 +1,5 @@
 # 🎮 About Me:
-- Hi I'm Nezir your friendly neighbourhood Game Developer <br> - Game Development student at BugGameLab<br> - Developing games / Coding for six-year
+ - Hi I'm Nezir your friendly neighbourhood Game Developer <br> - Game Development student at BugGameLab<br> - Developing games / Coding for six-year
 
 
 ## 🌐 Socials:
